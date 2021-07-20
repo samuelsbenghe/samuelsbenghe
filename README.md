@@ -14,4 +14,4 @@ No projects
 
 ###College
 
-hctensa/newsomator
+[newsomator](https://github.com/hctensa/newsomator)
