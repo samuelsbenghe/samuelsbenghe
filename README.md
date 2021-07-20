@@ -4,11 +4,11 @@ Below you will see some of my repositories, most of them will be modular and ful
 
 ## Languages and Projects
 
-###Python
+### Python
 
 No projects
 
-###Go
+### Go
 
 No projects
 
