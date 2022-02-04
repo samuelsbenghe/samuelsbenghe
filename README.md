@@ -4,14 +4,6 @@ Below you will see some of my repositories, most of them will be modular and ful
 
 ## Languages and Projects
 
-### Python
-
-No projects
-
 ### Go
 
-No projects
-
-### College
-
-[hctensa/newsomator](https://github.com/hctensa/newsomator)
+[hctensa/onpanel](https://github.com/hctensa/onpanel)
